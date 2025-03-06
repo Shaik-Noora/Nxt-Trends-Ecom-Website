@@ -6,3 +6,4 @@
 - Installing Third-Party Packages
   - react-icons
 # Nxt-Trends-Ecom-Website
+# Nxt-Trends-Ecommerce
